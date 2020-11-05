@@ -1,6 +1,6 @@
 namespace api.Models
 {
-    public class Product :IEmployee
+    public class Product :IProduct
     {
         public int productId;
     }

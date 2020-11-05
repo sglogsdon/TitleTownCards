@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
+
 
 namespace api.Controllers
 {
@@ -19,9 +21,10 @@ namespace api.Controllers
 
             return newList;
         }
+        [EnableCors("AnotherPolicy")]
 
         // GET: api/Employee/5
-        // [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{employeeid}", Name = "GetEmployee")]
         public string Get(int id)
         {
             return "valuea";
