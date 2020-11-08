@@ -45,6 +45,10 @@
             "microsoft.aspnetcore.cors": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "system.data.sqlite.core": {
+              "target": "Package",
+              "version": "[1.0.113.6, )"
             }
           },
           "imports": [

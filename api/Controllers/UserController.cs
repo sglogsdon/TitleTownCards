@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Cors;
+using api.Models.Interface;
+using api.Models;
 
 
 namespace api.Controllers
@@ -26,11 +28,14 @@ namespace api.Controllers
         [EnableCors("AnotherPolicy")]
 
         // GET: api/User/5
-        [HttpGet("{userid}", Name = "GetUser")]
+        [HttpGet("{userID}", Name = "GetUser")]
         public string Get(int id)
         {
-            return "valuec";
-        }
+             IGetUser readobject = new GetUserData();
+
+            return readobject.GetUser(id).ToString();
+            
+                }
 
         // POST: api/User
         [HttpPost]

@@ -186,3 +186,8 @@ C:\Users\nvham\source\repos\TitleTownCards\api\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\nvham\source\repos\TitleTownCards\api\obj\Debug\netcoreapp3.1\api.dll
 C:\Users\nvham\source\repos\TitleTownCards\api\obj\Debug\netcoreapp3.1\api.pdb
 C:\Users\nvham\source\repos\TitleTownCards\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+C:\Users\nvham\source\repos\TitleTownCards\api\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\nvham\source\repos\TitleTownCards\api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nvham\source\repos\TitleTownCards\api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nvham\source\repos\TitleTownCards\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nvham\source\repos\TitleTownCards\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
