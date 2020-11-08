@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K71K3eSpRk9xT0651y/5u+xi0rJVkD4aqp5WtCxw+bg8luIhHq431CwoxMj+oDsNjidq/zA9q7S4TEXW26ytUQ==",
+  "dgSpecHash": "nTrqO6OVMEPljjI7OdkHKPKkehihRsxIuwVEviO8018ha+vcqBd4JQV+587B7ik18dLtiTXvjpUcapZYFRHZ9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nvham\\source\\repos\\TTC\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nvham\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\nvham\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

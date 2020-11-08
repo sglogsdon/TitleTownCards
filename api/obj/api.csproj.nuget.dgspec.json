@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nvham\\source\\repos\\TTC\\api\\api.csproj": {}
+    "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nvham\\source\\repos\\TTC\\api\\api.csproj": {
+    "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nvham\\source\\repos\\TTC\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\nvham\\source\\repos\\TTC\\api\\api.csproj",
+        "projectPath": "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\api\\api.csproj",
         "packagesPath": "C:\\Users\\nvham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nvham\\source\\repos\\TTC\\api\\obj\\",
+        "outputPath": "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nvham\\AppData\\Roaming\\NuGet\\NuGet.Config",
