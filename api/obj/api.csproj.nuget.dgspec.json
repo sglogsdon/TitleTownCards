@@ -44,7 +44,7 @@
             },
             "microsoft.aspnetcore.cors": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
